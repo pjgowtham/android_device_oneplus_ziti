@@ -864,6 +864,7 @@ odm/lib64/vendor.oplus.hardware.sendextcamcmd-V1-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.sendextcamcmd-V1-service-impl.so
 odm/lib64/vendor.oplus.hardware.urcc-V1-ndk_platform.so|f7a5072f55fded71ef2d2ac8cd6a305a8834e93d
 vendor/etc/camera/M_FaceAttribute_RGB_age_gender_1.7.1.model.hardcode
+vendor/lib/libcamxexternalformatutils.so
 vendor/lib64/camera/components/com.arcsoft.node.eisv2.so
 vendor/lib64/camera/components/com.qti.camx.chiiqutils.so
 vendor/lib64/camera/components/com.qti.eisv2.so
