@@ -63,6 +63,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.lineage.powershare@1.0-service.oplus
 
+# Sensors
+PRODUCT_PACKAGES += \
+    als_correction_service.ziti \
+    android.hardware.sensors@2.0-service.multihal.ziti
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
