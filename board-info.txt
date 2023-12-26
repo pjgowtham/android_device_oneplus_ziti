@@ -1,1 +1,1 @@
-require board=lahaina|martini|OP5155L1|OP5154L1
+require board=lahaina|OP5953L1
