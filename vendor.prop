@@ -1,3 +1,6 @@
+# ALS
+vendor.sensors.als_correction.grabrect=666 0 794 104
+
 # Bluetooth
 bluetooth.device.default_name=OnePlus Nord CE3 5G
 
