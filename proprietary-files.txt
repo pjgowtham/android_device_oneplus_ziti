@@ -1137,6 +1137,10 @@ odm/firmware/tp/22813/FW_FT3681_BOE.img
 odm/firmware/tp/22813/FW_FT3681_BOE_FAE.img
 odm/firmware/tp/22813/LIMIT_FT3681_BOE.img
 
+# Vibrator firmware
+odm/firmware/aw8697_haptic_170.bin
+odm/firmware/aw8697_rtp.bin
+
 # VPU firmware
 vendor/firmware/vpu20_1v.b01
 vendor/firmware/vpu20_1v.b02
