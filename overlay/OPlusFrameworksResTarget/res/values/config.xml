@@ -429,6 +429,14 @@
     <!-- Type of the udfps long press sensor. Empty if long press is not supported. -->
     <string name="config_dozeUdfpsLongPressSensorType" translatable="false">org.lineageos.sensor.udfps</string>
 
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">
+        M 0,62
+        M -34,62
+        A 34,34 0 1,0 34,62
+        A 34,34 0 1,0 -34,62
+        Z
+    </string>
+
     <!-- Like config_mainBuiltInDisplayCutout, but this path is used to report the
          one single bounding rect per device edge to the app via
          {@link DisplayCutout#getBoundingRect}. Note that this path should try to match the visual
@@ -436,10 +444,10 @@
          config_mainBuiltInDisplayCutout
          -->
     <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">
-        M -35,0
-        L 35,0
-        L 35,105
-        L -35,105
+        M 0,0
+        H 164
+        V 123
+        H 0
         Z
     </string>
 
