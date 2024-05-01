@@ -1102,6 +1102,10 @@ vendor/firmware/yupik_ipa_fws.b04
 vendor/firmware/yupik_ipa_fws.elf
 vendor/firmware/yupik_ipa_fws.mdt
 
+# IR
+odm/bin/hw/android.hardware.ir-service:odm/bin/hw/android.hardware.ir-service.oplus
+odm/lib64/android.hardware.ir-V1-ndk_platform.so
+
 # Iris
 odm/bin/hw/vendor.pixelworks.hardware.display.iris-service
 odm/bin/hw/vendor.pixelworks.hardware.feature.irisfeature-service
