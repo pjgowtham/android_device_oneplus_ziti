@@ -1137,6 +1137,10 @@ odm/firmware/tp/22813/FW_FT3681_BOE.img
 odm/firmware/tp/22813/FW_FT3681_BOE_FAE.img
 odm/firmware/tp/22813/LIMIT_FT3681_BOE.img
 
+# UFS firmware
+odm/firmware/ufs/MICRON-MT128GAXAT2U31.bin
+odm/firmware/ufs/MICRON-MT256GAXAT4U31.bin
+
 # Vibrator firmware
 odm/firmware/aw8697_haptic_170.bin
 odm/firmware/aw8697_rtp.bin
