@@ -1009,6 +1009,7 @@ vendor/firmware/CAMERA_ICP.elf
 vendor/firmware/CAMERA_ICP_170.elf
 
 # Charger
+odm/firmware/fastchg/22867/oplus_vooc_fw_rk826.bin:recovery/root/vendor/odm/firmware/fastchg/22867/oplus_vooc_fw_rk826.bin
 odm/firmware/fastchg/22867/bms_heating_config.txt
 odm/firmware/fastchg/22867/charging_thermal_config_default.txt
 odm/firmware/fastchg/22867/oplus_vooc_fw_rk826.bin
