@@ -88,8 +88,6 @@ blob_fixups: blob_fixups_user_type = {
         .replace_needed('libgui1_vendor.so', 'libgui_vendor.so'),
     'vendor/lib/libextcamera_client.so': blob_fixup()
         .replace_needed('libgui1_vendor.so', 'libgui_vendor.so'),
-    'vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so': blob_fixup()
-        .call(blob_fixup_nop_call, 'bl', '__cfi_check', '_ZN7android8hardware22configureRpcThreadpoolEmb@plt'),
 }  # fmt: skip
 
 module = ExtractUtilsModule(
