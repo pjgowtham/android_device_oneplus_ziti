@@ -1,7 +1,7 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus Nord CE3 5G (CPH2569_14.0.0.1100(EX01)).
+## are from OnePlus Nord CE3 5G (CPH2569_15.0.0.402(EX01)).
 
-abl.img;AB|4875db77f095947337b42d6e48f7a7510f56f4ed
+abl.img;AB
 aop.img;AB
 bluetooth.img;AB
 cpucp.img;AB
