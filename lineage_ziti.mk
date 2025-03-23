@@ -24,8 +24,8 @@ PRODUCT_MODEL := CPH2569
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="CPH2569-user 14 UKQ1.230924.001 T.R4T2.194400b_2_1 release-keys" \
-    BuildFingerprint=OnePlus/CPH2569/OP5953L1:14/UKQ1.230924.001/T.R4T2.194400b_2_1:user/release-keys \
+    BuildDesc="CPH2569-user 15 AP3A.240617.008 T.R4T2.1c82861_23218 release-keys" \
+    BuildFingerprint=OnePlus/CPH2569/OP5953L1:15/AP3A.240617.008/T.R4T2.1c82861_23218-d6c6:user/release-keys
     DeviceName=OP5953L1 \
     DeviceProduct=CPH2569 \
     SystemDevice=OP5953L1 \

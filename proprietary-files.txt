@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus Nord CE3 5G (CPH2569_14.0.0.1100(EX01)).
+## are from OnePlus Nord CE3 5G (CPH2569_15.0.0.402(EX01)).
 
 # ACDB
 odm/etc/acdbdata/Bluetooth_cal.acdb
@@ -846,6 +846,7 @@ odm/lib64/libsnpe_loader.so
 odm/lib64/libsnpeml.so
 odm/lib64/libssd_det.so
 odm/lib64/libstblur_api.so
+odm/lib64/libextendfile.so
 odm/lib64/libstblur_capture_api.so
 odm/lib64/libstface_fd_api.so
 odm/lib64/libstfd_mobile_api.so
@@ -856,7 +857,7 @@ odm/lib64/libyuvwrapper.so
 odm/lib64/vendor.oplus.hardware.cammidasservice-V1-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.orms@1.0.so
 odm/lib64/vendor.oplus.hardware.osense.client@1.0.so
-odm/lib64/vendor.oplus.hardware.sendextcamcmd-V1-ndk_platform.so
+odm/lib64/vendor.oplus.hardware.sendextcamcmd-V2-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.sendextcamcmd-V1-service-impl.so
 vendor/etc/camera/M_FaceAttribute_RGB_age_gender_1.7.1.model.hardcode
 vendor/lib/libcamxexternalformatutils.so
