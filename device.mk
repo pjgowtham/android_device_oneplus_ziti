@@ -1,5 +1,9 @@
 #
+<<<<<<< HEAD
 # Copyright (C) 2021-2024 The LineageOS Project
+=======
+# Copyright (C) 2021-2025 The LineageOS Project
+>>>>>>> 4c51ca8 (martini: Set Lineage Health control charging path)
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -33,6 +37,9 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     android.hardware.ir-service.oplus \
+
+# Lineage Health
+$(call soong_config_set,lineage_health,charging_control_charging_path,/sys/class/oplus_chg/battery/mmi_charging_enable)
 
 # NFC
 PRODUCT_PACKAGES += \
